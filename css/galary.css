@@ -1,0 +1,32 @@
+body {
+    background-color: #6b6b6b;
+}
+
+
+.row-no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+}
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic);
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+.thumbnail {
+    background-color: #afafaf;
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+a{
+    color: white;
+}
+
+span.divider{
+    padding: 0 10px;
+}
